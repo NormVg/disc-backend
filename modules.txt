@@ -1,0 +1,7 @@
+requests
+tinydb
+PyDrive2
+flask
+Flask-Cors
+eyed3
+gdown

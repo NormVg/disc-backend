@@ -1,0 +1,410 @@
+{
+    "_default": {
+        "1": {
+            "name": "DOOBA THA ARYA X VNI OFFICIAL MUSIC VIDEO AMAR ALBUM.mp3",
+            "id": "10LC_ll-3y3wGdrRc3h1UphDS0fqcaQu6",
+            "catg": "hiphop",
+            "artist": "arya",
+            "art": "/api/album-art?id=10LC_ll-3y3wGdrRc3h1UphDS0fqcaQu6"
+        },
+        "2": {
+            "name": "GULAAB - ARYA X VNI (INTRO) CLOSING CHAPTER 2 OFFICIAL AUDIO ARTISTZEN.mp3",
+            "id": "12_GKZKzkP7C5HiweBReLvu1kxKZgJBa_",
+            "catg": "hiphop",
+            "artist": "arya",
+            "art": "/api/album-art?id=12_GKZKzkP7C5HiweBReLvu1kxKZgJBa_"
+        },
+        "3": {
+            "name": "aleemrk - Midnight _ Prod. by @Jokhay (Visualizer).mp3",
+            "id": "18NySZGw9XgXNlq1tw9HgM_-OcsThySPr",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=18NySZGw9XgXNlq1tw9HgM_-OcsThySPr"
+        },
+        "4": {
+            "name": "aleemrk - Living In The City (Official Music Video).mp3",
+            "id": "1MIBk7_qySIDQTy7Ny7c1Y2je6AyNTMsI",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1MIBk7_qySIDQTy7Ny7c1Y2je6AyNTMsI"
+        },
+        "5": {
+            "name": "aleemrk - Please Me! (Official Audio).mp3",
+            "id": "1_pOHkINywgPdT1XM1ga6CSNQnudWGvgZ",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1_pOHkINywgPdT1XM1ga6CSNQnudWGvgZ"
+        },
+        "6": {
+            "name": "aleemrk - BACKSTREET FREESTYLE (Official Audio).mp3",
+            "id": "1171DDoWnGo1Y-0_GMd5IBel-tikYJMbq",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1171DDoWnGo1Y-0_GMd5IBel-tikYJMbq"
+        },
+        "7": {
+            "name": "aleemrk - 1v1 (Official Audio).mp3",
+            "id": "1MZx_GaQrYKrPEgJO0htm5-_FWgLMUGhe",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1MZx_GaQrYKrPEgJO0htm5-_FWgLMUGhe"
+        },
+        "8": {
+            "name": "aleemrk - Through The Skies (Official Audio).mp3",
+            "id": "1qumtZeIFMV1NT7dPE1mXhfZXrS5a2Hd5",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1qumtZeIFMV1NT7dPE1mXhfZXrS5a2Hd5"
+        },
+        "9": {
+            "name": "KABHI KABHI - aleemrk (Official Audio).mp3",
+            "id": "1c5q2_VMKrGJU-xyRSKYAWPwQtCBzLD1t",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1c5q2_VMKrGJU-xyRSKYAWPwQtCBzLD1t"
+        },
+        "10": {
+            "name": "SAR-E-AAM - aleemrk (Official Audio).mp3",
+            "id": "17V960YPnX6A_yzHqTK7HJ-15vIc9V9Ss",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=17V960YPnX6A_yzHqTK7HJ-15vIc9V9Ss"
+        },
+        "11": {
+            "name": "RAAT DIN - aleemrk (Official Audio).mp3",
+            "id": "1PukhlSzY1ZksBuEEuikFPXzyppzm12wp",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1PukhlSzY1ZksBuEEuikFPXzyppzm12wp"
+        },
+        "12": {
+            "name": "KAAFI SAAL - aleemrk (Official Audio).mp3",
+            "id": "1rcOhNNxAsMMTTHMBirmCbDPwc_dk-pMQ",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1rcOhNNxAsMMTTHMBirmCbDPwc_dk-pMQ"
+        },
+        "13": {
+            "name": "THORA TIME - aleemrk (Official Audio).mp3",
+            "id": "1G0g674zwhoRxJe7ojAq6RAVyf0HwtXsG",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1G0g674zwhoRxJe7ojAq6RAVyf0HwtXsG"
+        },
+        "14": {
+            "name": "HASRAT - aleemrk (Official Audio).mp3",
+            "id": "1BPzJE5iKobIjTSCjxE19yEAEMjhwt5oi",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1BPzJE5iKobIjTSCjxE19yEAEMjhwt5oi"
+        },
+        "15": {
+            "name": "021 - aleemrk (Official Audio).mp3",
+            "id": "1MDnAzVGuH_WADrgXKH3-quxMZ81FByr-",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1MDnAzVGuH_WADrgXKH3-quxMZ81FByr-"
+        },
+        "16": {
+            "name": "ARTIST KON_ - aleemrk (Official Audio).mp3",
+            "id": "1XEYfBKLjosuLOwX4hJWqpvlJFoge8OLD",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1XEYfBKLjosuLOwX4hJWqpvlJFoge8OLD"
+        },
+        "17": {
+            "name": "aleemrk - Cold Hours (Official Audio) _ Prod. by @UMAIR.mp3",
+            "id": "10D4enq-Kczqzmzbei9knyjTL0jXPBX1U",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=10D4enq-Kczqzmzbei9knyjTL0jXPBX1U"
+        },
+        "18": {
+            "name": "aleemrk - No Need _ Prod. by @UMAIR.mp3",
+            "id": "1gmDgvXQ1Mkx9bTRSBWkYvZu-c63BoPg4",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1gmDgvXQ1Mkx9bTRSBWkYvZu-c63BoPg4"
+        },
+        "19": {
+            "name": "JAANKAARI - aleemrk (Official Audio).mp3",
+            "id": "1PqfHvoCaDfTYJ-mFXm0fejHe8be28MXX",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1PqfHvoCaDfTYJ-mFXm0fejHe8be28MXX"
+        },
+        "20": {
+            "name": "LIFE GOES ON - aleemrk (Official Audio).mp3",
+            "id": "1DyUqQ1UwM6QtXMJBSfT8pB_u-blNwnnQ",
+            "catg": "hiphop",
+            "artist": "aleemrk",
+            "art": "/api/album-art?id=1DyUqQ1UwM6QtXMJBSfT8pB_u-blNwnnQ"
+        },
+        "21": {
+            "name": "Jokhay, JJ47, Talha Anjum - Tasweer (Official Audio).mp3",
+            "id": "121uIXWLFz0v_NSQWphRUMw7zsQYXH8JF",
+            "catg": "hiphop",
+            "artist": "jokhay",
+            "art": "/api/album-art?id=121uIXWLFz0v_NSQWphRUMw7zsQYXH8JF"
+        },
+        "22": {
+            "name": "Jokhay, Talha Anjum - Jokhay aur Mein II (Official Audio).mp3",
+            "id": "1MIy2XYb_kx6rmyOKja6Qs913er5ScrQF",
+            "catg": "hiphop",
+            "artist": "jokhay",
+            "art": "/api/album-art?id=1MIy2XYb_kx6rmyOKja6Qs913er5ScrQF"
+        },
+        "23": {
+            "name": "Jokhay, Talha Anjum, Talhah Yunus - Me & You (Official Audio).mp3",
+            "id": "1mLjKKutpUmUu3G9o0I5_DE1jzrrpaltn",
+            "catg": "hiphop",
+            "artist": "jokhay",
+            "art": "/api/album-art?id=1mLjKKutpUmUu3G9o0I5_DE1jzrrpaltn"
+        },
+        "24": {
+            "name": "Jokhay, Shareh, JJ47, Talhah Yunus - Therapy (Official Audio).mp3",
+            "id": "1FUYx6JZWAKaE7VsuEBrCR0TA70PNdeuT",
+            "catg": "hiphop",
+            "artist": "jokhay",
+            "art": "/api/album-art?id=1FUYx6JZWAKaE7VsuEBrCR0TA70PNdeuT"
+        },
+        "25": {
+            "name": "Jokhay, JJ47, Talha Anjum, Talhah Yunus - CCTV (Official Audio).mp3",
+            "id": "1_f61ovE-LYMlZ_feFlTZFmJG58aU_mO1",
+            "catg": "hiphop",
+            "artist": "jokhay",
+            "art": "/api/album-art?id=1_f61ovE-LYMlZ_feFlTZFmJG58aU_mO1"
+        },
+        "26": {
+            "name": "Jokhay, Talhah Yunus - On My Own (Official Audio).mp3",
+            "id": "1Vd404m-EsRUMuiEaw8lIimUgkHTEyTfH",
+            "catg": "hiphop",
+            "artist": "jokhay",
+            "art": "/api/album-art?id=1Vd404m-EsRUMuiEaw8lIimUgkHTEyTfH"
+        },
+        "27": {
+            "name": "Divya Drishti (\u0926\u093f\u0935\u094d\u092f-\u0926\u0943\u0937\u094d\u091f\u093f) _ DeeVoy Singh _ Prod. Pendo46 _ Hindi Rap 2023.mp3",
+            "id": "1lNYBAdtBYgGZffNSgMylsi3kqBz5bwSv",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1lNYBAdtBYgGZffNSgMylsi3kqBz5bwSv"
+        },
+        "28": {
+            "name": "Damru _ Bassick _ MTV Hustle 03 REPRESENT.mp3",
+            "id": "12atlIqScI1eUD5XRsbgCABrxpfUx-AKa",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=12atlIqScI1eUD5XRsbgCABrxpfUx-AKa"
+        },
+        "29": {
+            "name": "NO ONE (Official Video) - @SuperManikk & @OfficialBhagat  _ 2023.mp3",
+            "id": "1FKfBiYXlLe8ZfF8CjEsgl3dJu00HV4wz",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1FKfBiYXlLe8ZfF8CjEsgl3dJu00HV4wz"
+        },
+        "30": {
+            "name": "XOGI - Kati Patang (Official Music Video).mp3",
+            "id": "1qY4sazBLaCLHAXPBvQ3deK83cdOlxo8Z",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1qY4sazBLaCLHAXPBvQ3deK83cdOlxo8Z"
+        },
+        "31": {
+            "name": "SILENT - MINTA _ PROD BY REFIX _ OFFICIAL MUSIC VIDEO _ BANTAI RECORDS _.mp3",
+            "id": "1aYlMbKWFk4X6dMoVmNjBT6QGoanKQ7mb",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1aYlMbKWFk4X6dMoVmNjBT6QGoanKQ7mb"
+        },
+        "32": {
+            "name": "UROOJ (THE RISE) (OFFICIAL VIDEO) - THE LAST GOATS _ TAKEOFF THURSDAYS _ KALAMKAAR.mp3",
+            "id": "1yJDfBchD9V8qXs0OErgBUEMg1zsOp9wH",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1yJDfBchD9V8qXs0OErgBUEMg1zsOp9wH"
+        },
+        "33": {
+            "name": "Shayari - PNM _ Prod. by Somil _ Official Video _ 2022.mp3",
+            "id": "1H-jjiYfzJsdDY0NJTz0N8GE44_5fOmOM",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1H-jjiYfzJsdDY0NJTz0N8GE44_5fOmOM"
+        },
+        "34": {
+            "name": "RHYMELESS (OFFICIAL VIDEO) - NAWAAB  _ PROD. BY TSHARP MAJOR _ TAKEOFF THURSDAYS _ KALAMKAAR.mp3",
+            "id": "1RJ3o00kNeWiZfIKL1SnDOqE7f3G1Uo5F",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1RJ3o00kNeWiZfIKL1SnDOqE7f3G1Uo5F"
+        },
+        "35": {
+            "name": "KASOL (OFFICIAL VIDEO) - VISHESH MALIK FEAT. SANE _ TAKEOFF THURSDAYS _ KALAMKAAR.mp3",
+            "id": "1HaUvOMMwB1lNlpKm48VnA95h0luc2aSJ",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1HaUvOMMwB1lNlpKm48VnA95h0luc2aSJ"
+        },
+        "36": {
+            "name": "CHETAVANI - SABHI LADKO KE LIYE _ MUHFAAD _ LOVE BITES EP _ LATEST HINDI SONG 2022 _ AELAAN RECORDS.mp3",
+            "id": "1xwNdmM39IHT_VL7fUJatHQ1VnbXQMc8Y",
+            "catg": "hiphop",
+            "artist": null,
+            "art": "/api/album-art?id=1xwNdmM39IHT_VL7fUJatHQ1VnbXQMc8Y"
+        },
+        "37": {
+            "name": "Anuv Jain - MISHRI (Studio).mp3",
+            "id": "1Q4ZUx57lFaMhVUclgVXZAS4vvkJRHXuk",
+            "catg": "hindi",
+            "artist": "Anuv Jain",
+            "art": "/api/album-art?id=1Q4ZUx57lFaMhVUclgVXZAS4vvkJRHXuk"
+        },
+        "38": {
+            "name": "Anuv Jain - GUL (Studio).mp3",
+            "id": "1oZt9_Wrfu4uHglkr4OOBh9zrsgPtQB-9",
+            "catg": "hindi",
+            "artist": "Anuv Jain",
+            "art": "/api/album-art?id=1oZt9_Wrfu4uHglkr4OOBh9zrsgPtQB-9"
+        },
+        "39": {
+            "name": "Anuv Jain - Alag Aasmaan (Acoustic).mp3",
+            "id": "1GcisAx9TYUlUlytOUN_Z9wa5hfgk0WBz",
+            "catg": "hindi",
+            "artist": "Anuv Jain",
+            "art": "/api/album-art?id=1GcisAx9TYUlUlytOUN_Z9wa5hfgk0WBz"
+        },
+        "40": {
+            "name": "Anuv Jain - Meri Baaton Mein Tu (Official Video).mp3",
+            "id": "12seSHDHq_rnJEcACi2OVzxTOMYijFZXe",
+            "catg": "hindi",
+            "artist": "Anuv Jain",
+            "art": "/api/album-art?id=12seSHDHq_rnJEcACi2OVzxTOMYijFZXe"
+        },
+        "41": {
+            "name": "Anuv Jain - MAZAAK (Official Video).mp3",
+            "id": "16NYTX9GJWx7wggKmj6zIgBmC6bt4NTrC",
+            "catg": "hindi",
+            "artist": "Anuv Jain",
+            "art": "/api/album-art?id=16NYTX9GJWx7wggKmj6zIgBmC6bt4NTrC"
+        },
+        "42": {
+            "name": "Anuv Jain - BAARISHEIN (ACOUSTIC).mp3",
+            "id": "1sCJxV7hBM1x8xGm5aVpg6dkjviQxtEB3",
+            "catg": "hindi",
+            "artist": "Anuv Jain",
+            "art": "/api/album-art?id=1sCJxV7hBM1x8xGm5aVpg6dkjviQxtEB3"
+        },
+        "43": {
+            "name": "100 DAFA _ MANNIONTHEMIC     (OFFICIAL VISUALIZER ) 2k23.mp3",
+            "id": "16YajTcy6R0ojH6zYZxt5c74DfbR5vnUZ",
+            "catg": "hindi",
+            "artist": null,
+            "art": "/api/album-art?id=16YajTcy6R0ojH6zYZxt5c74DfbR5vnUZ"
+        },
+        "44": {
+            "name": "Ashq.mp3",
+            "id": "1FP2sf_whKws9TJDvgYsnppsgrFAZKqOR",
+            "catg": "hindi",
+            "artist": null,
+            "art": "/api/album-art?id=1FP2sf_whKws9TJDvgYsnppsgrFAZKqOR"
+        },
+        "45": {
+            "name": "TUM TO KEHTI THI ( AUDIO ).mp3",
+            "id": "1uUgDMJhlmzGI78gFsJpLNaoN4O8AIL3G",
+            "catg": "hindi",
+            "artist": null,
+            "art": "/api/album-art?id=1uUgDMJhlmzGI78gFsJpLNaoN4O8AIL3G"
+        },
+        "46": {
+            "name": "Dhundh Raha Khud Ko.mp3",
+            "id": "16up_O0E5h8ZNUkStFnf9nWVGJXSQbg1m",
+            "catg": "hindi",
+            "artist": null,
+            "art": "/api/album-art?id=16up_O0E5h8ZNUkStFnf9nWVGJXSQbg1m"
+        },
+        "47": {
+            "name": "WHY ME.mp3",
+            "id": "1sAy7YJkmBDhln-DdJ8VXWPnpIz7NNkl1",
+            "catg": "hindi",
+            "artist": null,
+            "art": "/api/album-art?id=1sAy7YJkmBDhln-DdJ8VXWPnpIz7NNkl1"
+        },
+        "48": {
+            "name": "Raatein.mp3",
+            "id": "10rM4Il91ty_Nhjwui_rqKhmBAdtGXLMo",
+            "catg": "hindi",
+            "artist": null,
+            "art": "/api/album-art?id=10rM4Il91ty_Nhjwui_rqKhmBAdtGXLMo"
+        },
+        "49": {
+            "name": "Meant To Be official lyric video.mp3",
+            "id": "12WPbElsJW2G9crG-xBRD_G3IlrTbZVJs",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=12WPbElsJW2G9crG-xBRD_G3IlrTbZVJs"
+        },
+        "50": {
+            "name": "Muscle Memory Official Lyric Video.mp3",
+            "id": "1RK-5cxYhrXIwR3bv4FcfU96ZXGMyiQjV",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=1RK-5cxYhrXIwR3bv4FcfU96ZXGMyiQjV"
+        },
+        "51": {
+            "name": "Gravity Jared Benjamin.mp3",
+            "id": "1DJEkZaocguy6WM1RPlMqhNAloHsmHkAq",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=1DJEkZaocguy6WM1RPlMqhNAloHsmHkAq"
+        },
+        "52": {
+            "name": "A Year From Now Live from Chandelier Studios.mp3",
+            "id": "1iOYK484pYVnrOT5S4tbIhsIEJ5Jqmdtx",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=1iOYK484pYVnrOT5S4tbIhsIEJ5Jqmdtx"
+        },
+        "53": {
+            "name": "Official Doomsday Lyric Video by Jared Benjamin.mp3",
+            "id": "1ic05BvNagREZfGPS1EdueVV6BS9e-Q2w",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=1ic05BvNagREZfGPS1EdueVV6BS9e-Q2w"
+        },
+        "54": {
+            "name": "Not Going Back Official Lyric Video.mp3",
+            "id": "1N_FW_ykkyQEwwV4jEKyGIYbydjzTh4u0",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=1N_FW_ykkyQEwwV4jEKyGIYbydjzTh4u0"
+        },
+        "55": {
+            "name": "Flatline Lyric video.mp3",
+            "id": "1lCCaPuFXVgIjqBgYEBi-_DbFoVOv9eN0",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=1lCCaPuFXVgIjqBgYEBi-_DbFoVOv9eN0"
+        },
+        "56": {
+            "name": "Superhero Song and Lyrics by Jared Benjamin.mp3",
+            "id": "16qdFfineCJvAgunegbR38vyijrDIkrYO",
+            "catg": "english",
+            "artist": "Jared benjamin",
+            "art": "/api/album-art?id=16qdFfineCJvAgunegbR38vyijrDIkrYO"
+        },
+        "57": {
+            "name": "Crystal Castles KEROSENE Official.mp3",
+            "id": "1uV8q0HXNUwxE27r_AH5JMGN4luQ_UC5C",
+            "catg": "english",
+            "artist": null,
+            "art": "/api/album-art?id=1uV8q0HXNUwxE27r_AH5JMGN4luQ_UC5C"
+        },
+        "58": {
+            "name": "Complete - Jordan.mp3",
+            "id": "10f6xalE_cv9NCIuA1m4oBAg7tyQGHKKm",
+            "catg": "english",
+            "artist": null,
+            "art": "/api/album-art?id=10f6xalE_cv9NCIuA1m4oBAg7tyQGHKKm"
+        }
+    }
+}
